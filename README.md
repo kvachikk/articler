@@ -1,4 +1,3 @@
-# articler
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -9,8 +8,10 @@
 # About project
 
 ### Student: IC-34 Pohorilets Vlad (individual work)
-This is a backend of website, where users can write articles, manage them and get a link to their article, and share it with others
-
+This is a backend of website, where users can 
+- write articles
+- manage (create, read, update, delete)
+- get a link to their article and share it with others
 
 
 # List of all used tools
